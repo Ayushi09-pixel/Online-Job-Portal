@@ -10,11 +10,11 @@ An online job portal where employers post jobs, job seekers search and apply wit
 
 | Name | Roll No | GitHub | Role | Modules |
 |---|---|---|---|---|
-| `<YOUR NAME>` | `<ROLL NO>` | `<github-username>` | Team Leader | Database design, DAO layer, authentication, integration |
-| `<MEMBER 2 NAME>` | `<ROLL NO>` | `<github-username>` | Member | Employer and Admin modules |
-| `<MEMBER 3 NAME>` | `<ROLL NO>` | `<github-username>` | Member | Job Seeker module, shared UI |
+| `Ayushi Goyal` | `25SCSE1410298` | `Ayushi09-pixel` | Team Leader | Database design, DAO layer, authentication, integration |
+| `Aryan Mehta`| `25SCSE1410318` | `<github-usern>` | Member | Employer and Admin modules |
+| `Suhani Bharti` | `25SCSE1181111` | `<github-username>` | Member | Job Seeker module, shared UI |
 
-**Faculty mentor:** `<FACULTY NAME>`
+**Faculty mentor:** `Jyoti Ratna`
 
 ## Features
 
